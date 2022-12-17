@@ -1,4 +1,4 @@
-# UnityRuntimeBehaviourTreeNodeEditor
+# Unity Runtime BehaviourTree Node Editor
 Using UI Toolkit, runtime editing is possible in Behaviour Tree Node Editor developed in Unity Engine (**_2021.2.19f1_ version used**)
 
 **NOTE:** Since UI Toolkit(ui builder) is in experimental phase, I strongly recommend NOT to use it for production purposes.
